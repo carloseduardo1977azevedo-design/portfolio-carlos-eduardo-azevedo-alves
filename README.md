@@ -12,7 +12,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou graduando em **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Minha abordagem une lógica de programação com foco na resolução de problemas reais.
+Estou graduando em **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Minha abordagem une lógica de programação com foco na resolução de problemas reais.
 
 Acredito que a tecnologia só é eficiente quando é acessível, organizada e bem documentada.
 
