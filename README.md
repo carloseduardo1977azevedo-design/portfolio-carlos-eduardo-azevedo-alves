@@ -6,9 +6,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou graduando em **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Minha abordagem une lógica de programação com foco na resolução de problemas reais.
+Estou graduando em **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Minha abordagem une lógica de programação com foco na resolução de problemas reais.
 
-Acredito que a tecnologia só é eficiente quando é acessível, organizada e bem documentada.
+Acredito que a tecnologia e bem eficiente quando é acessível, organizada e bem documentada.
 
 - 🐍 **Desenvolvimento:** Construindo bases sólidas em Python com foco em lógica, estruturas de dados e algoritmos.
 - 🤖 **IA:** Uso ferramentas como Claude, Gemini e ChatGPT para potencializar soluções e aprendizado.
