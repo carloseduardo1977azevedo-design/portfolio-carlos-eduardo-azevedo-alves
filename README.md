@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Carlos Eduardo! 👋</h1>
 
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Python Developer | IA Enthusiast</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Portfolio-Carlos-Eduardo-Azevedo-Alves&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180">
