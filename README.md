@@ -1,7 +1,6 @@
-# portfolio-Carlos-Eduardo-Azevedo-
 <h1 align="center">Olá, eu sou o Carlos Eduardo! 👋</h1>
 
-<h3 align="center">Análise e Desenvolvimento de Sistemas | Python Developer | IA Enthusiast</h3>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Python Developer | IA Enthusiast</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Portfolio-Carlos-Eduardo-Azevedo-Alves&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180">
@@ -12,7 +11,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Estou graduando em **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Minha abordagem une lógica de programação com foco na resolução de problemas reais.
+Sou graduando em **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Minha abordagem une lógica de programação com foco na resolução de problemas reais.
 
 Acredito que a tecnologia só é eficiente quando é acessível, organizada e bem documentada.
 
@@ -429,6 +428,3 @@ for chave in playlist.keys():
   </a>
 </p>
 
----
-
-> *"O código é poesia — cada linha conta uma história."*
