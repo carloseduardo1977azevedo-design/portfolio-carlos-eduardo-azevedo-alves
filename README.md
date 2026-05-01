@@ -30,6 +30,7 @@ Tenho interesse em Inteligência Artificial e utilizo ferramentas como Claude, G
 #### 💻 Linguagens e Tecnologias
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 #### 🤖 Inteligência Artificial
@@ -44,12 +45,12 @@ Tenho interesse em Inteligência Artificial e utilizo ferramentas como Claude, G
 
 | Projeto | Descricao | Link |
 | --- | --- | --- |
-| **Algoritmo de Auditoria de Dados** | Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância. | [Ver Projeto](https://github.com/carlos-eduardo-azevedo-alves/portfolio-carlos-eduardo/tree/main/projeto-algoritmo-de-auditoria-de-dados) |
-| **Engenharia de Solucoes Logicas** | Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](https://github.com/carlos-eduardo-azevedo-alves/portfolio-carlos-eduardo/tree/main/projeto-engenharia-de-solucoes-logicas) |
-| **Modularizacao** | Separação do código em funções independentes para facilitar manutenção, leitura e reutilização. | [Ver Projeto](https://github.com/carlos-eduardo-azevedo-alves/portfolio-carlos-eduardo/tree/main/projeto-modularizacao) |
-| **Traduzindo Logica para Python** | Quatro programas práticos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança. | [Ver Projeto](https://github.com/carlos-eduardo-azevedo-alves/portfolio-carlos-eduardo/tree/main/projeto-traduzindo-logica-para-python) |
-| **Engenharia de Contexto e Logica Fisica** | Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota de evacuação com listas e loops. | [Ver Projeto](https://github.com/carlos-eduardo-azevedo-alves/portfolio-carlos-eduardo/tree/main/projeto-engenharia-de-contexto-e-logica-fisica) |
-| **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](https://github.com/carlos-eduardo-azevedo-alves/portfolio-carlos-eduardo/tree/main/projeto-desenhando-emojis-com-dados) |
+| **Algoritmo de Auditoria de Dados** | Algoritmo que detecta outliers e anomalias em conjuntos de dados financeiros, aplicando normalização e margem de tolerância. | [Ver Projeto](https://github.com/carloseduardo1977azevedo-design/portfolio-carlos-eduardo-azevedo-alves/tree/main/projeto-algoritmo-de-auditoria-de-dados) |
+| **Engenharia de Solucoes Logicas** | Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](https://github.com/carloseduardo1977azevedo-design/portfolio-carlos-eduardo-azevedo-alves/tree/main/projeto-engenharia-de-solucoes-logicas) |
+| **Modularizacao** | Separação do código em funções independentes para facilitar manutenção, leitura e reutilização. | [Ver Projeto](https://github.com/carloseduardo1977azevedo-design/portfolio-carlos-eduardo-azevedo-alves/tree/main/projeto-modularizacao) |
+| **Traduzindo Logica para Python** | Quatro programas práticos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança. | [Ver Projeto](https://github.com/carloseduardo1977azevedo-design/portfolio-carlos-eduardo-azevedo-alves/tree/main/projeto-traduzindo-logica-para-python) |
+| **Engenharia de Contexto e Logica Fisica** | Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota de evacuação com listas e loops. | [Ver Projeto](https://github.com/carloseduardo1977azevedo-design/portfolio-carlos-eduardo-azevedo-alves/tree/main/projeto-engenharia-de-contexto-e-logica-fisica) |
+| **Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](https://github.com/carloseduardo1977azevedo-design/portfolio-carlos-eduardo-azevedo-alves/tree/main/projeto-desenhando-emojis-com-dados) |
 
 ---
 
