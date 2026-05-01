@@ -1,18 +1,36 @@
 <h1 align="center">Olá, eu sou o Carlos Eduardo! 👋</h1>
 
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Python Developer | IA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Portfolio-Carlos-Eduardo-Azevedo-Alves&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Portfolio-Carlos-Eduardo-Azevedo-Alves&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180">
+</p>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Estou graduando em **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Minha abordagem une lógica de programação com foco na resolução de problemas reais.
+Sou graduando em **Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID)**. Minha abordagem une lógica de programação com foco na resolução de problemas reais.
 
-Acredito que a tecnologia e bem eficiente quando é acessível, organizada e bem documentada.
+Acredito que a tecnologia só é eficiente quando é acessível, organizada e bem documentada.
 
 - 🐍 **Desenvolvimento:** Construindo bases sólidas em Python com foco em lógica, estruturas de dados e algoritmos.
 - 🤖 **IA:** Uso ferramentas como Claude, Gemini e ChatGPT para potencializar soluções e aprendizado.
 - 🎨 **Design:** Criação visual com Figma, Adobe e Canva para comunicar ideias com clareza.
+
+---
+
+## 📂 Portfólio de Projetos
+
+| Projeto | Descrição | Link |
+| --- | --- | --- |
+| **EX1 — Algoritmo de Auditoria de Dados** | Programa que analisa consistência de dados, detecta outliers e aplica normalização para identificar anomalias em valores financeiros. | [Ver Projeto](https://github.com/Portfolio-Carlos-Eduardo-Azevedo-Alves/portfolio/tree/main/projeto-algoritmo-de-auditoria-de-dados) |
+| **EX2 — Engenharia de Soluções Lógicas** | Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica. | [Ver Projeto](https://github.com/Portfolio-Carlos-Eduardo-Azevedo-Alves/portfolio/tree/main/projeto-engenharia-de-solucoes-logicas) |
+| **EX3 — Modularização** | Separação do código em funções independentes para facilitar manutenção, leitura e reutilização. | [Ver Projeto](https://github.com/Portfolio-Carlos-Eduardo-Azevedo-Alves/portfolio/tree/main/projeto-modularizacao) |
+| **EX4 — Traduzindo Lógica para Python** | Quatro programas completos: processador de vendas, analisador de clima, sistema de notas e simulador de poupança com juros compostos. | [Ver Projeto](https://github.com/Portfolio-Carlos-Eduardo-Azevedo-Alves/portfolio/tree/main/projeto-traduzindo-logica-para-python) |
+| **EX5 — Engenharia de Contexto e Lógica Física** | Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota de evacuação com listas, loops e match-case. | [Ver Projeto](https://github.com/Portfolio-Carlos-Eduardo-Azevedo-Alves/portfolio/tree/main/projeto-engenharia-de-contexto-e-logica-fisica) |
+| **EX6 — Desenhando Emojis com Dados** | Manipulação de matrizes, dicionários e tuplas com loops aninhados para criar arte visual em pixel com matplotlib. | [Ver Projeto](https://github.com/Portfolio-Carlos-Eduardo-Azevedo-Alves/portfolio/tree/main/projeto-desenhando-emojis-com-dados) |
 
 ---
 
