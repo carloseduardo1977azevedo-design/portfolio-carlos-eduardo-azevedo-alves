@@ -11,7 +11,7 @@ Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota 
 
 ---
 
-## Conceitos Aplicados
+## O que usei
 
 - Listas aninhadas e loops duplos
 - match-case (Python 3.10+)
@@ -20,7 +20,7 @@ Análise de microclima urbano (Mooca, Tatuapé, Guaianases) e simulador de rota 
 
 ---
 
-## Aprendizados
+## o que eu aprendi
 
 - Aprender a programar ensina que dá pra resolver problemas grandes aos poucos.
 - Estruturas como if e else refletem decisões lógicas do mundo real.
