@@ -5,7 +5,7 @@
 
 ---
 
-## Conceitos Aplicados
+## O que aprendi
 
 - Matrizes e listas aninhadas
 - Dicionários e tuplas
