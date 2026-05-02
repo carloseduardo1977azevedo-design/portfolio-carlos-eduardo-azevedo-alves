@@ -1,17 +1,17 @@
-# 📊 EX1 — Algoritmo de Auditoria de Dados
+# Algoritmo de Auditoria de Dados
 
 > Projeto desenvolvido por **Carlos Eduardo Azevedo Alves**  
 > Curso: Análise e Desenvolvimento de Sistemas — UNICID
 
 ---
 
-## 📌 Descrição
+## Descrição
 
 Programa que analisa consistência de dados, detecta outliers e aplica normalização para identificar anomalias em valores financeiros.
 
 ---
 
-## 🧠 Conceitos Aplicados
+## Conceitos Aplicados
 
 - Outliers e detecção de anomalias
 - Normalização de dados
@@ -20,14 +20,14 @@ Programa que analisa consistência de dados, detecta outliers e aplica normaliza
 
 ---
 
-## 💡 Aprendizados
+## Aprendizados
 
 - Variáveis globais podem ser perigosas: qualquer parte do sistema pode alterá-las, gerando erros ou fraudes.
 - Erro de indentação foi corrigido após revisão cuidadosa — o Python interpreta o código de forma literal.
 
 ---
 
-## 🔧 Como Executar
+## Como Executar
 1. Clone o repositório.
 2. Instale as dependências: `pip install -r requirements.txt`.
 3. Execute o arquivo principal: `python main.py`.
@@ -35,6 +35,6 @@ Programa que analisa consistência de dados, detecta outliers e aplica normaliza
 ---
 [Voltar ao início](https://github.com/carlos-eduardo-azevedo/portfolio-carlos-eduardo-azevedo-alves)
 
-## 🛠️ Tecnologia
+## Tecnologia
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
