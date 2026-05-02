@@ -11,7 +11,7 @@ Solução algorítmica para problemas complexos do mundo real, partindo da abstr
 
 ---
 
-## Conceitos Aplicados
+## O que usei 
 
 - Decomposição de problemas
 - Raciocínio lógico estruturado
