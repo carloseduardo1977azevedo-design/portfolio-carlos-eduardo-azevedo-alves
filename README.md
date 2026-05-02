@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-4968a92a8)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carloseduardo.1977azevedo@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/carlos-eduardo-azevedo/portf%C3%B3lio-carlos-eduardo-azevedo-alves/blob/main/Curr%C3%ADculo_Carlos_Eduardo_v2.pdf)
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://github.com/carlos-eduardo-azevedo/portfolio-carlos-eduardo-azevedo-alves/blob/main/Curriculo_Carlos_Eduardo_v2.pdf)
 
 ---
 
