@@ -20,7 +20,7 @@ Separação do código em funções independentes para facilitar manutenção, l
 
 ---
 
-## Aprendizados
+## O que aprendi
 
 - Código modularizado é mais fácil de manter e testar.
 - Funções bem nomeadas tornam o código autodocumentado.
