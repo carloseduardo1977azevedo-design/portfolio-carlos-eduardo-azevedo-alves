@@ -11,7 +11,7 @@ Quatro programas completos: processador de vendas, analisador de clima, sistema 
 
 ---
 
-## Conceitos Aplicados
+## O que usei
 
 - Funções, loops e condicionais
 - Tipagem e conversão de dados
@@ -19,7 +19,7 @@ Quatro programas completos: processador de vendas, analisador de clima, sistema 
 
 ---
 
-## Aprendizados
+## O que eu aprendi
 
 - input() sempre retorna string — converter antes de operar matematicamente.
 - range() não inclui o valor final: para ir de 1 até N, usar range(1, N + 1).
