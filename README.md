@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Sobre
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com foco em desenvolver soluções que unem lógica de programação e resolução de problemas reais.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo (UNICID), com foco em desenvolver soluções que soluciona lógica de programação e resolução de problemas reais.
 
 Tenho interesse em Inteligência Artificial e utilizo ferramentas como Claude, Gemini e ChatGPT para potencializar soluções e aprendizado. Paralelamente, desenvolvo minha base em programação com Python, buscando integrar funcionalidade e clareza em projetos práticos.
 
