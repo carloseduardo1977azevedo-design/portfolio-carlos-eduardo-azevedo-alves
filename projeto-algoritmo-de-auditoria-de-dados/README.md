@@ -11,7 +11,7 @@ Programa que analisa consistência de dados, detecta outliers e aplica normaliza
 
 ---
 
-## Conceitos Aplicados
+## O que usei
 
 - Outliers e detecção de anomalias
 - Normalização de dados
@@ -20,7 +20,7 @@ Programa que analisa consistência de dados, detecta outliers e aplica normaliza
 
 ---
 
-## Aprendizados
+## o que eu aprendi
 
 - Variáveis globais podem ser perigosas: qualquer parte do sistema pode alterá-las, gerando erros ou fraudes.
 - Erro de indentação foi corrigido após revisão cuidadosa — o Python interpreta o código de forma literal.
