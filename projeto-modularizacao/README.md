@@ -11,7 +11,7 @@ Separação do código em funções independentes para facilitar manutenção, l
 
 ---
 
-## Conceitos Aplicados
+## O que usei
 
 - Funções e escopo
 - Reutilização de código
