@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/status-concluido-brightgreen.svg)]()
 
 ## Sobre o Projeto
-Este projeto foi desenvolvido como parte da disciplina de [Nome da Disciplina] do curso de [Nome do Curso].
+Este projeto foi desenvolvido como parte da disciplina de Programacao de Computadores do curso de Analise e Desenvolvimento de Sistemas.
 O script processa e calcula o orcamento de uma estrutura organizacional complexa usando dicionarios aninhados,
 aplicando regras de negocio dinamicas e auditoria de execucao.
 
