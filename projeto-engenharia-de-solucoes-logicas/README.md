@@ -9,13 +9,50 @@
 
 Solução algorítmica para problemas complexos do mundo real, partindo da abstração visual até a validação lógica.
 
+O projeto modela um **sistema inteligente de semáforos urbanos**, com tomada de decisão baseada em tráfego, presença de pedestres, qualidade do ar (CO₂) e situações de emergência.
+
 ---
 
-## O que usei 
+## Processo de Desenvolvimento
+
+### 1. Fluxograma Manual (Rascunho no Caderno)
+
+Primeiro, o problema foi desenhado à mão para mapear todos os cenários de decisão antes de escrever qualquer código.
+
+![Fluxograma Manual](fluxograma-manual.jpeg)
+
+---
+
+### 2. Pseudocódigo
+
+Em seguida, a lógica foi escrita em pseudocódigo estruturado, traduzindo o fluxograma em regras claras de entrada, validação e saída.
+
+![Pseudocódigo](pseudocodigo.jpeg)
+
+---
+
+### 3. Anotações — Desafios e Modificações
+
+Reflexões sobre o maior desafio logístico: transformar variáveis contínuas do mundo real (tráfego, pedestres, poluição) em decisões binárias (Sim/Não).
+
+![Anotações de Modificação](anotacoes-modificacao.jpeg)
+
+---
+
+### 4. Diagrama Digital
+
+Versão finalizada e digitalizada do fluxograma completo do sistema de controle de semáforos.
+
+![Diagrama Digital](diagrama-digital.jpeg)
+
+---
+
+## O que usei
 
 - Decomposição de problemas
 - Raciocínio lógico estruturado
 - Abstração e modelagem
+- Fluxogramas e pseudocódigo
 
 ---
 
@@ -23,19 +60,3 @@ Solução algorítmica para problemas complexos do mundo real, partindo da abstr
 
 - Dividir um problema grande em partes menores facilita a solução.
 - A lógica de programação reflete diretamente o raciocínio do mundo real.
-
----
-
-## Como Executar
-
-1. Clone o repositório.
-2. Instale as dependências: `pip install -r requirements.txt`.
-3. Execute o arquivo principal: `python main.py`.
-
----
-
-[Voltar ao início](https://github.com/carlos-eduardo-azevedo/portfolio-carlos-eduardo-azevedo-alves)
-
-## Tecnologia
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
